@@ -23,7 +23,7 @@ O objetivo é apoiar decisões de RH com base em dados reais de performance, sat
 - Colaboradores com **3 a 5 anos** de empresa representam o maior volume de desligamentos
 - **61,74%** dos colaboradores com satisfação alta, mas engajamento médio predominante (78,14%)
 
-## Principl Tomada de Decisão
+## Principal Tomada de Decisão
 
 O turnover de 33,44% está acima do saudável (ideal abaixo de 10%). Os departamentos de Produção e Engenharia de Software precisam de atenção imediata.
 
