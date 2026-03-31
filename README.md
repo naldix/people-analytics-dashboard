@@ -23,6 +23,14 @@ O objetivo é apoiar decisões de RH com base em dados reais de performance, sat
 - Colaboradores com **3 a 5 anos** de empresa representam o maior volume de desligamentos
 - **61,74%** dos colaboradores com satisfação alta, mas engajamento médio predominante (78,14%)
 
+## Principl Tomada de Decisão
+
+O turnover de 33,44% está acima do saudável (ideal abaixo de 10%). Os departamentos de Produção e Engenharia de Software precisam de atenção imediata.
+
+- Revisar política salarial nesses departamentos
+- Criar plano de retenção para colaboradores entre 3 e 5 anos de empresa — faixa com maior volume de desligamentos
+- Investigar os gestores com turnover acima de 50% (Amy Dunn e Webster Butler com 61,90%)
+
 ## Ferramentas Utilizadas
 
 - Power BI
