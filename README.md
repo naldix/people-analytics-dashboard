@@ -36,6 +36,7 @@ O turnover de 33,44% está acima do saudável (ideal abaixo de 10%). Os departam
 - Power BI
 - DAX
 - Excel
+- Figma
 
 ## Acesse o Dashboard
 
