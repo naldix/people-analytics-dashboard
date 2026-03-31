@@ -35,3 +35,12 @@ O objetivo é apoiar decisões de RH com base em dados reais de performance, sat
 
 ## Resumo
 <img width="1449" height="878" alt="Captura de tela 2026-03-31 140908" src="https://github.com/user-attachments/assets/0b138eb4-94ce-4b7b-8083-e4681c54dfd4" />
+
+## Visão Geral
+<img width="1449" height="877" alt="Captura de tela 2026-03-31 141018" src="https://github.com/user-attachments/assets/7322a1a9-e90f-4d2c-b0b6-b3f7235ed3e5" />
+
+## Engajamento
+<img width="1473" height="882" alt="Captura de tela 2026-03-31 141045" src="https://github.com/user-attachments/assets/30e9d10b-8b84-4f15-99f3-bdd81f45acaf" />
+
+## Turnover
+<img width="1450" height="876" alt="Captura de tela 2026-03-31 141118" src="https://github.com/user-attachments/assets/28b8a897-5b90-4683-b9ff-0fd2a9da2692" />
